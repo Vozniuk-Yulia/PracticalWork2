@@ -1,0 +1,6 @@
+﻿Bread 25 bakery
+Apple 20 fruit
+Pineapple 121 fruit
+Tomatos 123 vegetable
+Grape 270 fruit
+Crackers 23 bakery
